@@ -85,6 +85,7 @@ export default class App extends Component {
                 />
               }
             />
+          {/* this code is for doccumentat */}
             <Route
               exact
               path="/technology"
